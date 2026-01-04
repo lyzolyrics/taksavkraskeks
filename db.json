@@ -33,27 +33,27 @@
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
+            "name": "Брызги шампанского",
             "description": "Brand new and high quality.",
-            "price": 180,
+            "price": 185,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-C7QjMuXaFsSAYGf5iEQjV793nIE0uCoi_A&s"
         },
         {
             "id": 3,
-            "name": "ESP8266 5V",
+            "name": "101 ночь",
             "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
-            "price": 300,
+            "price": 184,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVE44JU8GLGDbKlzpsk86utlPy3ZFw2VaQg&s"
         },
         {
             "id": 4,
-            "name": "RGB",
+            "name": "беру джам",
             "description": "Can make color party.",
-            "price": 92,
+            "price": 183,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            "photo_url": "https://knopca.com.ua/image/cache/6a149cf49d13465982ff1128fa7290d6.jpeg"
         },
         {
             "id": 5,
